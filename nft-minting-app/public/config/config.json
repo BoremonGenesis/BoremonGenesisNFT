@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE40C0563A7e3D21b834258E295cA1eA2064195dF",
+  "SCAN_LINK": "https://bscscan.com/address/0xe40c0563a7e3d21b834258e295ca1ea2064195df#code",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "Boremon Genesis",
+  "SYMBOL": "BGEN",
+  "MAX_SUPPLY": 500,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 500000,
+  "MARKETPLACE": "Tofu",
+  "MARKETPLACE_LINK": "https://tofunft.com/",
+  "SHOW_BACKGROUND": true
+}
